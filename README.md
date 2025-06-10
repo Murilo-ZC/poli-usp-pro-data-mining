@@ -14,7 +14,7 @@ Por favor!! Eu fico muito feliz com contribuições aqui para o Material! Por ho
 
 Não tem problema! Da uma olhada nesse material aqui, ou ainda me manda uma mensagem [aqui](mailto:carvalho.zanini@gmail.com).
 
-<div align="center>
+<div align="center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/nCKdihvneS0?si=ztG3_LiODfg4rP4n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 <br />
